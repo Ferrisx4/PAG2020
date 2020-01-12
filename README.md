@@ -1,6 +1,3 @@
-# PAG2020
-Git with all things PAG 2020
-
 # Links referenced in the Tripal FAIR Data Modules presentation:
 
 [EUtils Publication](https://data.nal.usda.gov/dataset/data-tripal-eutils-tripal-module-increase-exchange-and-reuse-genome-assembly-metadata)
